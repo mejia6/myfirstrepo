@@ -1,4 +1,4 @@
 Hello, world
 Learning Git is going well so far.
-blah
-it's sunny outside
+I added this line in the update-readme branch.
+It's cloudy outside today.
